@@ -1,0 +1,19 @@
+{
+	"geode": "4.9.0",
+	"gd": {
+		"win": "2.2074",
+		"android": "2.2074",
+		"mac": "2.2074",
+		"ios": "2.2074"
+	},
+	"id": "gachaqui.secretwaydialect",
+	"name": "Secret Way Dialect",
+	"version": "v1.0.0",
+	"developers": [ "Gachaqui", "LoyTheFloy" ],
+	"description": "Replaces words by Secret Way's vocabulary",
+	"tags": ["offline","customization","joke"],
+	"links": {
+		"source": "https://github.com/GMDGachaqui/secret-way-dialect-geode",
+		"community": "https://discord.gg/JPandZcCUU"
+	}
+}
