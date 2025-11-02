@@ -8,12 +8,13 @@
 	},
 	"id": "gachaqui.secretwaydialect",
 	"name": "Secret Way Dialect",
-	"version": "v1.0.0",
+	"version": "v1.0.1",
 	"developers": [ "Gachaqui", "LoyTheFloy" ],
 	"description": "Replaces words by Secret Way's vocabulary",
-	"tags": ["offline","customization","joke"],
+	"icon": "logo.png",
+	"tags": [ "offline", "customization", "joke" ],
 	"links": {
-		"source": "https://github.com/GMDGachaqui/secret-way-dialect-geode",
-		"community": "https://discord.gg/JPandZcCUU"
+		"community": "https://discord.gg/JPandZcCUU",
+		"source": "https://github.com/GMDGachaqui/secret-way-dialect-geode"
 	}
 }
