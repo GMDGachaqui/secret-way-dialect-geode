@@ -1,21 +1,19 @@
 {
-  "changelog": "changelog.md",
-  "description": "Replaces words by Secret Way's vocabulary",
-  "developers": [ "Gachaqui", "LoyTheFloy" ],
-  "gd": {
-    "win": "2.2074",
-    "android": "2.2074",
-    "mac": "2.2074",
-    "ios": "2.2074"
-  },
-  "geode": "4.9.0",
-  "id": "gachaqui.secretwaydialect",
-  "links": {
-    "community": "https://discord.gg/JPandZcCUU",
-    "source": "https://github.com/GMDGachaqui/secret-way-dialect-geode"
-  },
-  "logo": "icon.png",
-  "name": "Secret Way Dialect",
-  "tags": [ "offline", "customization", "joke" ],
-  "version": "v1.0.1"
+    "geode": "4.9.0",
+    "gd": {
+        "win": "*",
+        "android": "*",
+        "mac": "*",
+        "ios": "*"
+    },
+    "id": "gachaqui.secretwaydialect",
+    "name": "Secret Way's Dialect",
+    "version": "v1.0.3S",
+    "developers": ["Gachaqui","LoyTheFloy"],
+    "description": "Replace words by Secret Way's",
+    "links": {
+        "source": "https://github.com/GMDGachaqui/secret-way-dialect-geode",
+        "community": "https://discord.gg/JPandZcCUU"
+    },
+    "tags": ["customization", "joke", "offline"]
 }

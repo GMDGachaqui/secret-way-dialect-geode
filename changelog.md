@@ -1,6 +1,22 @@
 # Changelog
 
-## 1.0.1 — 2025-11-02
+## 1.0.3 - 2026-01-24
+### Added
+- New Words :
+- shinyploy, gooner
+- floy, gooner
+- conix, goonix
+
+## 1.0.2 - 2026-01-24
+### Added
+- New Words :
+- Blade of Justice -> Edge of Destiny
+- Cognition -> Cock nition
+- Kenos -> Beanos
+- Trueffet -> True effect
+  
+
+## 1.0.1 - 2025-11-02
 ### Added
 - New Words :
   - xo = ex though  
@@ -8,7 +24,7 @@
 ### Fixed
 - Corrected the settings that were preventing the mod from loading.
 
-## 1.0.0 — 2025-11-01
+## 1.0.0 - 2025-11-01
 ### Added
 - Mod creation and added words :
   - bloodlust = Bloodbust
